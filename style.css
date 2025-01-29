@@ -95,7 +95,9 @@ a.header-link {
 }
 
 .intro-image {
-  width: 533px;
+  object-fit: contain;
+  min-width: 50px;
+  max-width: 533px;
 }
 
 button.signup {
