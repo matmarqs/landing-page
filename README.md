@@ -10,7 +10,7 @@ The figures below are references for what the page has to look like to complete 
 <img src="fig/01.png" height=600px>
 </center>
 
-</br> </br>
+</br>
 
 <center>
 <b style="font-size: 30px">Second image:</b>
