@@ -9,11 +9,3 @@ The figures below are references for what the page has to look like to complete 
 </br>
 <img src="fig/01.png" height=600px>
 </center>
-
-</br>
-
-<center>
-<b style="font-size: 30px">Second image:</b>
-</br>
-<img src="fig/02.png" height=600px>
-</center>
